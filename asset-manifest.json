@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fund-collector/static/css/main.b3eeeea7.css",
+    "main.js": "/fund-collector/static/js/main.f32f5b6c.js",
+    "static/js/787.0da49ef8.chunk.js": "/fund-collector/static/js/787.0da49ef8.chunk.js",
+    "index.html": "/fund-collector/index.html",
+    "main.b3eeeea7.css.map": "/fund-collector/static/css/main.b3eeeea7.css.map",
+    "main.f32f5b6c.js.map": "/fund-collector/static/js/main.f32f5b6c.js.map",
+    "787.0da49ef8.chunk.js.map": "/fund-collector/static/js/787.0da49ef8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3eeeea7.css",
+    "static/js/main.f32f5b6c.js"
+  ]
+}
